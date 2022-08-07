@@ -1,3 +1,13 @@
 body {
   font-family: 'Montserrat', sans-serif;
+  width: 1400px;
+  background: #EFE6E4;
+  color: #533738;
+}
+header{
+  background-image: url(img/main-bg.png);
+  width: 1400px;
+  height: 715px;
+  left: 1400px;
+  top: 0px;
 }

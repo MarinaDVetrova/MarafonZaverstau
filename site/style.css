@@ -3,13 +3,19 @@ body {
   width: 1400px;
   background: #EFE6E4;
   color: #533738;
+  background: url(img/main-bg.png) no-repeat top center;
 }
 header{
-  background-image: url(img/main-bg.png);
   width: 1400px;
   height: 715px;
   left: 1400px;
   top: 0px;
+}
+nav {
+  padding: 20px;
+}
+nav a {
+  color: #533738;
 }
 button{
   background-color: #CC8B86;
